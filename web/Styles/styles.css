@@ -1,0 +1,8 @@
+body {background-color: rgba(24, 173, 136, 0.418)}
+ul li {display: inline;}
+#title2
+    {
+    border: 2px solid red; 
+    width: 500px; 
+    height: 100vh;
+    }
